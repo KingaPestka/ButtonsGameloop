@@ -1,0 +1,54 @@
+img
+{
+    width: 100%;
+}
+.button 
+{
+    background-color: #ff84ff;
+    border: none;
+    box-shadow: 0 9px#000000;
+    padding: 30px;
+    text-align: center;
+    font-size: 28px;
+}
+
+.button:hover 
+{
+    background-color:#3327d8;
+}
+table
+{
+    position: absolute;
+    top:100px;
+    left:850px;
+}
+.button:active 
+{
+    box-shadow: 0 5px #000000;
+    transform: translateY(5px);
+}
+
+.red 
+{
+    color: #ee4166;
+}
+
+.green 
+{
+    color: #a1fd7c;
+}
+
+.blue 
+{
+    color: #6262f0;
+}
+
+.yellow 
+{
+    color: #fafa98;
+}
+
+.round 
+{
+    border-radius: 50%;
+}
